@@ -30,7 +30,7 @@ Este proyecto es una simulación gráfica de un circuito eléctrico simple, desa
    
 ## Componentes del circuito
 
-- **Fuente de voltaje:** Valor fijo en la línea 11 (`private final double voltaje = 9.0;`). Cambia el valor a negativo para invertir la dirección de la corriente.
+- **Fuente de voltaje:** Valor fijo en la línea 11 (`private final double voltaje = 9.0;`). Cambiar el valor a negativo para invertir la dirección de la corriente.
 
 - **Interruptor:** Activa o desactiva el paso de corriente.
 
