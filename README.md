@@ -11,7 +11,7 @@ Este proyecto es una simulación gráfica de un circuito eléctrico simple, desa
 - Indicadores de estado del circuito, voltaje y corriente.
 - Representación animada de la corriente eléctrica en función del signo del voltaje:
     - **Voltaje positivo** → corriente circula en sentido horario.
-    - **Voltaje negativo** → corriente circula en sentido antihorario, y la flecha animada apunta en la dirección opuesta.
+    - **Voltaje negativo** → corriente circula en sentido antihorario, y la flecha animada apunta en la dirección opuesta.**Se utilizó valor negativo a fines de representar sentido antihorario de recorrido**
 - Posibilidad de simular cortes en el circuito mediante checkboxes que representan conexiones clave.
 
 ## Cómo ejecutar
